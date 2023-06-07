@@ -1,0 +1,90 @@
+nav li {
+    display: inline;
+}
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+nav{
+    position: absolute;
+    right: 50%;
+    top: 0;
+
+    
+    font-size: large;
+
+}
+
+.nav{
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #FFFFFA;
+    border-radius: 50px;
+    border-width: 20px;
+    border-color: #FFFFFA;
+    border-style: double;
+}
+
+.SERV{
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #080705;
+    border-radius: 50px;
+    border-width: 10px;
+    border-color: #080705;
+    border-style: double;
+}
+
+body{
+    background-color: #4C4C47;
+}
+
+h1{
+    text-align: center; 
+    font-size: 150px;
+    color: #FF312E;
+}
+
+
+.barb{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.botao-barb {
+    background-color: #FF312E;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+}
+
+.cabelo{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.botao-cab {
+    background-color: #FF312E;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+}
+
+.sob{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.botao-sob {
+    background-color: #FF312E;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+}
