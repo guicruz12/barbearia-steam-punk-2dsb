@@ -1,0 +1,81 @@
+
+nav li {
+    display: inline;
+    
+    
+}
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    
+}
+nav{
+    position: absolute;
+    right: 50%;
+    top: 0;
+    
+    font-size: large;
+}
+
+.nav{
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #FFFFFA;
+    border-radius: 50px;
+    border-width: 20px;
+    border-color: #FFFFFA;
+    border-style: double;
+
+}
+
+  .Cortes:hover {
+    color: red;
+  }
+
+header {
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #080705;
+    border-width: 10px;
+    border-color: #d13d18;
+    border-style: double;
+    border-radius: 50px;
+}
+
+    h1{
+color: #FF312E ;text-align: center;font-size: 120px;
+    }
+
+
+    h2{
+ color: #FF312E ;text-align: center;font-size: 90px;
+}
+
+body {
+    background-color: rgb(83, 77, 77);font-size: 30px;text-align: center;
+
+}
+.fotoEntrada {
+    width: 50%;
+}
+.ferramentas{
+    width: 500px;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #080705;
+    border-radius: 50px;
+    border-width: 10px;
+    border-color: #080705;
+    border-style: double;
+}
+
+footer {
+    margin-bottom: 0px;
+    background-color: #080705;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    color: #FF312E;
+  }
+  
